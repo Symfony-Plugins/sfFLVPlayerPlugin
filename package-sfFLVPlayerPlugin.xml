@@ -49,7 +49,7 @@
     <name>symfony</name>
     <channel>pear.symfony-project.com</channel>
     <min>0.8.1</min>
-    <max>1.1.0</max>
+    <max>1.2.0</max>
     <exclude>1.2.0</exclude>
    </package>
   </required>
