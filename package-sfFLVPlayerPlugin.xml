@@ -70,8 +70,10 @@
    </stability>
    <date>2008-08-15</date>
    <license>MIT license</license>
-   <notes>Adapted README and LICENSE to new symfony plugins interface</notes>
-   <notes>Tested plugin with symfony 1.1</notes>
+   <notes>
+   * Adapted README and LICENSE to new symfony plugins interface
+   * Tested plugin with symfony 1.1
+   </notes>
   </release>
  
  </changelog>
